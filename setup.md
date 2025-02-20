@@ -29,6 +29,11 @@ In addition to the detailed notes here, we also provide template notebooks for y
 - [Loops](https://colab.research.google.com/github/ARCTraining/swd1a-notebooks/blob/main/05-loops.ipynb)
 - [Numpy](https://colab.research.google.com/github/ARCTraining/swd1a-notebooks/blob/main/02-numpy.ipynb)
 
+#### Day 1 exercise:
+
+- [Day 1 exercise](https://colab.research.google.com/github/ARCTraining/swd1a-notebooks/blob/main/list_loops_exercise.ipynb)
+
+
 #### How to use these notebooks
 
 Note that links in these notes may be broken, please
