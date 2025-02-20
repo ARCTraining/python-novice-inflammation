@@ -24,10 +24,10 @@ In addition to the detailed notes here, we also provide template notebooks for y
 
 #### Day 1 notebooks:
 
-- [Introduction](colab.research.google.com/github/ARCTraining/swd1a-notebooks/blob/main/01-intro.ipynb)
-- [Lists](colab.research.google.com/github/ARCTraining/swd1a-notebooks/blob/main/04-lists.ipynb)
-- [Loops](colab.research.google.com/github/ARCTraining/swd1a-notebooks/blob/main/05-loops.ipynb)
-- [Numpy](colab.research.google.com/github/ARCTraining/swd1a-notebooks/blob/main/02-numpy.ipynb)
+- [Introduction](https://colab.research.google.com/github/ARCTraining/swd1a-notebooks/blob/main/01-intro.ipynb)
+- [Lists](https://colab.research.google.com/github/ARCTraining/swd1a-notebooks/blob/main/04-lists.ipynb)
+- [Loops](https://colab.research.google.com/github/ARCTraining/swd1a-notebooks/blob/main/05-loops.ipynb)
+- [Numpy](https://colab.research.google.com/github/ARCTraining/swd1a-notebooks/blob/main/02-numpy.ipynb)
 
 #### How to use these notebooks
 
