@@ -15,7 +15,40 @@ We are going to be using [Google Colab](https://colab.google/), a hosted Jupyter
 that requires no setup to use and provides free access to computing resources,
 including GPUs and TPUs.
 
-To get started, you just need to log in with a Google account and click ["New Notebook"](https://colab.new/).
+To get started, you just need to log in with a Google account and either click ["New Notebook"](https://colab.new/),
+or launch the relevant template notebook from the list below.
+
+### Course notebooks
+
+In addition to the detailed notes here, we also provide template notebooks for you to launch in Google Colab.
+
+#### Day 1 notebooks:
+
+- [Introduction](colab.research.google.com/github/ARCTraining/swd1a-notebooks/blob/main/01-intro.ipynb)
+- [Lists](colab.research.google.com/github/ARCTraining/swd1a-notebooks/blob/main/04-lists.ipynb)
+- [Loops](colab.research.google.com/github/ARCTraining/swd1a-notebooks/blob/main/05-loops.ipynb)
+- [Numpy](colab.research.google.com/github/ARCTraining/swd1a-notebooks/blob/main/02-numpy.ipynb)
+
+#### How to use these notebooks
+
+Note that links in these notes may be broken, please
+see the [course notes here](https://arctraining.github.io/python-novice-inflammation/01-intro.html) for correct links etc.
+
+#### Stop! When you see the header "solution"
+
+When you read a challenge asking you to do something, don't read beyond the next header that reads "Solution". Insert a new code cell below the question and attempt to solve it yourself before reading on.
+
+#### Remember to apply PRIMM
+
+When you see a piece of code, remember:
+
+1. Before you do anything else, **predict** what the output is going to be.
+2. Then **run** it, and compare the output to your prediction.
+3. You can begin to **investigate**, especially if your guess is way off - what information can you find in the notes, or online?
+4. Once you've tried to understand how the code works, try to **modify** it and make some changes.
+5. Then, you're ready to start **making** your own code!
+
+We will mainly be cycling through stages 1 and 2, with some of the later stages coming in as you build more knowledge.
 
 ## Obtain lesson materials
 
@@ -25,6 +58,7 @@ There a few different ways of loading in the data.
 
 In Colab, you can access the terminal of the remote machine by using `!` in front of Linux
 bash commands. This means you can use the Linux command `wget` to download files from the internet.
+This snippet is included in the relevant template notebook files linked above.
 
 **Note: the file storage space on the remote machine you are using in Google Colab is not persistent:
 the files and folders you upload/save will not still be there when you next log in. Please download
