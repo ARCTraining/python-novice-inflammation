@@ -32,7 +32,7 @@ In addition to the detailed notes here, we also provide template notebooks for y
 #### How to use these notebooks
 
 Note that links in these notes may be broken, please
-see the [course notes here](https://arctraining.github.io/python-novice-inflammation/01-intro.html) for correct links etc.
+refer back to these course notes for glossary terms etc.
 
 #### Stop! When you see the header "solution"
 
