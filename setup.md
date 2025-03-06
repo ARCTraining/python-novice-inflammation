@@ -33,6 +33,11 @@ In addition to the detailed notes here, we also provide template notebooks for y
 
 - [Day 1 exercise](https://colab.research.google.com/github/ARCTraining/swd1a-notebooks/blob/main/list_loops_exercise.ipynb)
 
+#### Day 2 notebooks:
+
+- [Visualising data](https://colab.research.google.com/github/ARCTraining/swd1a-notebooks/blob/main/03-matplotlib.ipynb)
+- [Analysing multiple files](https://colab.research.google.com/github/ARCTraining/swd1a-notebooks/blob/main/06-files.ipynb)
+- [Making choices](https://colab.research.google.com/github/ARCTraining/swd1a-notebooks/blob/main/07-choices.ipynb)
 
 #### How to use these notebooks
 
